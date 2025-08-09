@@ -7,7 +7,7 @@ reg [31:0] mem [2047:0];
 
 
 initial begin
-  $readmemh("mem.dump", mem, 0, 2047);
+  $readmemh("../02_test/dump/mem.dump", mem, 0, 2047);
 end
 
 assign inst_out = mem[addr_in[31:2]];
