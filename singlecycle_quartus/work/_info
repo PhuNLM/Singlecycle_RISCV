@@ -1,0 +1,771 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1
+valu
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 !s100 gao?f:e8834eiMAGLHVle3
+Z3 InXGz[c6`N2U7D<O_AR[S33
+Z4 V0jTNC=4@`G<CBMh1_kRK]3
+Z5 !s105 alu_sv_unit
+S1
+Z6 dC:\Users\MANHPHU\Documents\summer_projects\singlecycle
+Z7 w1730943871
+Z8 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/alu.sv
+Z9 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/alu.sv
+L0 1
+Z10 OV;L;10.1d;51
+r1
+31
+Z11 !s108 1754711759.662000
+Z12 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/alu.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/alu.sv|
+Z14 o-work work -sv -O0
+!i10b 1
+!s85 0
+!s101 -O0
+vANDD
+R1
+Z15 !s100 FcHzYa<zkH9[34VMBKYzn1
+Z16 IBCK[WgZaQ_a8A?aKRGe_b1
+Z17 Vo6R=456:_nohbA^EUJ5ni0
+R5
+S1
+R6
+R7
+R8
+R9
+Z18 L0 371
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z19 n@a@n@d@d
+!i10b 1
+!s85 0
+!s101 -O0
+vBCDto7Seg
+R1
+Z20 !s100 8m_aFj1:h53a7PU==V93c1
+Z21 Im?CjTQ=jf5Pki9TM>CX_50
+Z22 VLm`3>BEWYVKjiKYD3c[DT2
+Z23 !s105 BCDto7Seg_sv_unit
+S1
+R6
+Z24 w1731333558
+Z25 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/BCDto7Seg.sv
+Z26 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/BCDto7Seg.sv
+L0 1
+R10
+r1
+31
+Z27 !s108 1754711759.835000
+Z28 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/BCDto7Seg.sv|
+Z29 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/BCDto7Seg.sv|
+R14
+Z30 n@b@c@dto7@seg
+!i10b 1
+!s85 0
+!s101 -O0
+vbrc
+R1
+Z31 !s100 2oLGOZb^nNjgmA=k@id:[3
+Z32 IL3^odkHAelDb9^Q`CkL^73
+Z33 VP0D_ZJ3zD>1<TDS9nTbWB2
+Z34 !s105 brc_sv_unit
+S1
+R6
+Z35 w1730909901
+Z36 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/brc.sv
+Z37 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/brc.sv
+L0 1
+R10
+r1
+31
+Z38 !s108 1754711759.899000
+Z39 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/brc.sv|
+Z40 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/brc.sv|
+R14
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_unit
+R1
+Z41 !s100 l96;?IdE3E4:gB5e@TOFE1
+Z42 Ib0e[86ziBB5=;=mQR^L>M1
+Z43 V7@]R^Zc0TB?Va2]UChz1;1
+Z44 !s105 control_unit_sv_unit
+S1
+R6
+Z45 w1731392013
+Z46 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/control_unit.sv
+Z47 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/control_unit.sv
+L0 1
+R10
+r1
+31
+Z48 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/control_unit.sv|
+R14
+Z49 !s108 1754711759.955000
+Z50 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/control_unit.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vconverter
+R1
+Z51 !s100 mf5>]:Sl8[Wg8g?_Z5C>C0
+Z52 IKK3PDJBbDK3A]PJa>`0kY2
+Z53 VQ2MF2HQRN5]WB20gHE`NV0
+R23
+S1
+R6
+R24
+R25
+R26
+L0 14
+R10
+r1
+31
+R27
+R28
+R29
+R14
+!i10b 1
+!s85 0
+!s101 -O0
+vdmem
+R1
+Z54 !s100 5>8aCc3NPdHgJK>9=_cTX3
+Z55 Il4bkI7TP=;Kn:e4HUXBh;3
+Z56 VDGH5P5e:>b;G?N2Xi@fbL3
+Z57 !s105 dmem_sv_unit
+S1
+R6
+Z58 w1730957190
+Z59 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/dmem.sv
+Z60 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/dmem.sv
+L0 1
+R10
+r1
+31
+Z61 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/dmem.sv|
+R14
+Z62 !s108 1754711760.007000
+Z63 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/dmem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vdriver
+R1
+Z64 !s100 QVNZQE63ZH1I>X3Bm^jZ<0
+Z65 IEMaa7DVZ==P5ZKb4Q;QdC0
+Z66 VidSMe1bJ]VYRXzjPzBTAY3
+Z67 !s105 driver_sv_unit
+S1
+R6
+Z68 w1731827045
+Z69 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/driver.sv
+Z70 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/driver.sv
+L0 1
+R10
+r1
+31
+Z71 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/driver.sv|
+R14
+Z72 !s108 1754711760.676000
+Z73 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/driver.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vEXOR
+R1
+Z74 !s100 a>z<l>QOzaCT9G4?XmmLQ1
+Z75 I7>PY<k>e=T67TZXM<1FLo1
+Z76 VSZY00KfU:>a1]SJJdFj4R3
+R5
+S1
+R6
+R7
+R8
+R9
+Z77 L0 362
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z78 n@e@x@o@r
+!i10b 1
+!s85 0
+!s101 -O0
+vFA
+R1
+Z79 !s100 KjSIi^47]R_z5=ca6Ah223
+Z80 I4CVH<e;Y`h3XihcC@1l8o3
+Z81 VG^89GkUTikh:n8H7f?l8F3
+R5
+S1
+R6
+R7
+R8
+R9
+L0 87
+R10
+r1
+31
+R11
+R12
+R13
+R14
+n@f@a
+!i10b 1
+!s85 0
+!s101 -O0
+vFA_32
+R1
+Z82 !s100 bj:KF;3nQ@4ABZ9M6C[:>0
+Z83 Ihj>6o6`2M49PLYjCWhzbC1
+Z84 VRoFzP1`kWjHB80iMdI37b0
+R5
+S1
+R6
+R7
+R8
+R9
+L0 98
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z85 n@f@a_32
+!i10b 1
+!s85 0
+!s101 -O0
+vFF1
+R1
+Z86 !s100 T6Nkz]NAdDclzeNZbQDYL3
+Z87 IDU=PCgfG83<DcG91J:VHz2
+Z88 VM_HI^a0BON00c4Lb7Q6T21
+Z89 !s105 FF32_sv_unit
+S1
+R6
+Z90 w1731392720
+Z91 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/FF32.sv
+Z92 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/FF32.sv
+L0 14
+R10
+r1
+31
+Z93 !s108 1754711760.061000
+Z94 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/FF32.sv|
+Z95 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/FF32.sv|
+R14
+Z96 n@f@f1
+!i10b 1
+!s85 0
+!s101 -O0
+vFF32
+R1
+Z97 !s100 7Gn3Rf@NnNG@I<A>Y]ToX2
+Z98 IN`UVgo89oQSDj9zJ0ePCl2
+Z99 VFNG[SL1SjA56iXA0`LcF[2
+R89
+S1
+R6
+R90
+R91
+R92
+L0 1
+R10
+r1
+31
+R93
+R94
+R95
+R14
+Z100 n@f@f32
+!i10b 1
+!s85 0
+!s101 -O0
+vFS
+R1
+Z101 !s100 <4aiAKB64]gef^]A>K;fS1
+Z102 IFYTdlA;CX=F6m<Ij80:1H0
+Z103 VV9V98kk3@Yk3AN;?C32zP0
+R5
+S1
+R6
+R7
+R8
+R9
+Z104 L0 301
+R10
+r1
+31
+R11
+R12
+R13
+R14
+n@f@s
+!i10b 1
+!s85 0
+!s101 -O0
+vimem
+R1
+Z105 !s100 `4TkR71`l>W[nzYzA;K<U2
+Z106 IB9?g:BK@Z_:1FY4BcdVQT3
+Z107 V61dl^l@LOR=R3m1VOJD2T2
+Z108 !s105 imem_sv_unit
+S1
+R6
+Z109 w1731677564
+Z110 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/imem.sv
+Z111 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/imem.sv
+L0 1
+R10
+r1
+31
+Z112 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/imem.sv|
+R14
+Z113 !s108 1754711760.123000
+Z114 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/imem.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vImmGen
+R1
+Z115 !s100 ClB8iVnlS29b9N6maNG043
+Z116 Io1HbkCmKiNKY:EhW6OOj42
+Z117 V2Yz:IW=VQKl6[W]P2XjIf0
+Z118 !s105 ImmGen_sv_unit
+S1
+R6
+Z119 w1730908902
+Z120 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/ImmGen.sv
+Z121 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/ImmGen.sv
+L0 1
+R10
+r1
+31
+Z122 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/ImmGen.sv|
+R14
+Z123 n@imm@gen
+Z124 !s108 1754711760.178000
+Z125 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/ImmGen.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vlsu
+R1
+Z126 !s100 M2W:]]2Q26NW]Z<hjFGJn2
+Z127 IEg_<fQ92`@ek3c9Jbn7JY3
+Z128 Vz7Q8R`V17<Hm;LUKU9Q<<2
+Z129 !s105 lsu_sv_unit
+S1
+R6
+Z130 w1731698396
+Z131 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/lsu.sv
+Z132 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/lsu.sv
+L0 1
+R10
+r1
+31
+Z133 !s108 1754711760.235000
+Z134 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/lsu.sv|
+Z135 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/lsu.sv|
+R14
+!i10b 1
+!s85 0
+!s101 -O0
+vmux2
+R1
+Z136 !s100 0NgkAoPkWcE5`M>Qnla[l2
+Z137 Ij3z33?MN9n9lfT1PUD;b41
+Z138 V4zhB[YfedE6IKJ78oXJCR3
+Z139 !s105 mux2_sv_unit
+S1
+R6
+Z140 w1730912549
+Z141 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux2.sv
+Z142 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux2.sv
+L0 1
+R10
+r1
+31
+Z143 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux2.sv|
+R14
+Z144 !s108 1754711760.302000
+Z145 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux2.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux4
+R1
+Z146 !s100 b[@dCoaHkLCPQfBWcR[nc2
+Z147 IJ<UGkgn:31oDb]L`eBZET1
+Z148 VS7HgTQmVb5_iT=N?b7X3a0
+Z149 !s105 mux4_sv_unit
+S1
+R6
+Z150 w1730914158
+Z151 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux4.sv
+Z152 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux4.sv
+L0 1
+R10
+r1
+31
+Z153 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux4.sv|
+R14
+Z154 !s108 1754711760.356000
+Z155 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux4.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vMuxx
+R1
+Z156 !s100 7lB8BA4deDhYoO4dWVh;n1
+Z157 IFBGBi;C:02d4CI^i4DKEk3
+Z158 Vffm7dF6H3an[o2>OlQ=Q<1
+R5
+S1
+R6
+R7
+R8
+R9
+Z159 L0 570
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z160 n@muxx
+!i10b 1
+!s85 0
+!s101 -O0
+vORR
+R1
+Z161 !s100 5IWd[9Q7bagg8Y1oa2BLJ0
+Z162 IY1^<UoTE?1aoHb`BM[`^>3
+Z163 VE7VaO[@dGIVDYokgNS5I;2
+R5
+S1
+R6
+R7
+R8
+R9
+Z164 L0 380
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z165 n@o@r@r
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+R1
+Z166 !s100 Q_OIhbmj4YGdCUE]5iY>O0
+Z167 I`K7`E]C1lLFIa<dGgifEB2
+Z168 V3K7MjoXLE3cGOahnz=:]G0
+Z169 !s105 PC_sv_unit
+S1
+R6
+Z170 w1731392770
+Z171 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/PC.sv
+Z172 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/PC.sv
+L0 1
+R10
+r1
+31
+Z173 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/PC.sv|
+R14
+n@p@c
+Z174 !s108 1754711760.417000
+Z175 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/PC.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vregfile
+R1
+Z176 !s100 UV5XInYMAU6[K;gBC52552
+Z177 I@Z_A^0m`Z<F_J?2ThE8S]1
+Z178 V@iOKUaII2cKfUW^J_Ko8d1
+Z179 !s105 regfile_sv_unit
+S1
+R6
+Z180 w1731392706
+Z181 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/regfile.sv
+Z182 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/regfile.sv
+L0 1
+R10
+r1
+31
+Z183 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/regfile.sv|
+R14
+Z184 !s108 1754711760.474000
+Z185 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/regfile.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vscoreboard
+R1
+Z186 !s100 TjHl1P@Pdb4@cFac9U;NI0
+Z187 IglOMlk7MY=BP=4JbS]L1M0
+Z188 VXd>m7`[Y8?kG]J20LkF[h3
+Z189 !s105 scoreboard_sv_unit
+S1
+R6
+R68
+Z190 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/scoreboard.sv
+Z191 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/scoreboard.sv
+L0 1
+R10
+r1
+31
+Z192 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/scoreboard.sv|
+R14
+Z193 !s108 1754711760.746000
+Z194 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/scoreboard.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vsinglecycle
+R1
+Z195 !s100 >`[D60GS?Z@V47CUB5OXR1
+Z196 IK;@0aNhJnSohj4NnM^c<^1
+Z197 VAY3`BAf@_U:XTdX7^Wo5N1
+Z198 !s105 singlecycle_sv_unit
+S1
+R6
+Z199 w1731677856
+Z200 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/singlecycle.sv
+Z201 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/singlecycle.sv
+L0 2
+R10
+r1
+31
+Z202 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/singlecycle.sv|
+R14
+Z203 !s108 1754711760.531000
+Z204 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/singlecycle.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vSLL
+R1
+Z205 !s100 HGRhQ>h0di7TVoMCf:zTY1
+Z206 IH<?ITLVAiFk:4]aL@MK@]1
+Z207 V6IAMzM5M>3DDKd>AhZBzc2
+R5
+S1
+R6
+R7
+R8
+R9
+Z208 L0 388
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z209 n@s@l@l
+!i10b 1
+!s85 0
+!s101 -O0
+vSLT
+R1
+Z210 !s100 SzFH;UJAUhd9SYke@^Q0O1
+Z211 I5P58Oi@[^;d6kY8T83CbY1
+Z212 Vb[7PmPW39fd0VXn@FiUnD0
+R5
+S1
+R6
+R7
+R8
+R9
+Z213 L0 337
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z214 n@s@l@t
+!i10b 1
+!s85 0
+!s101 -O0
+vSLTU
+R1
+Z215 !s100 cN?>i264hPYHh@en>fCQY3
+Z216 IofNX3LKTTYozSB3;XRX692
+Z217 VC0KG]ZJWgdOYcl87JgmTE3
+R5
+S1
+R6
+R7
+R8
+R9
+Z218 L0 320
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z219 n@s@l@t@u
+!i10b 1
+!s85 0
+!s101 -O0
+vSRA
+R1
+Z220 !s100 53PG01YZi[B[>kIQ16^Qn1
+Z221 IH7ViL@2o3l<3L^5TS@XOY0
+Z222 VHmLRHE^Ddhbh1;ccCAaFF3
+R5
+S1
+R6
+R7
+R8
+R9
+Z223 L0 474
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z224 n@s@r@a
+!i10b 1
+!s85 0
+!s101 -O0
+vsram_IS61WV25616_controller_32b_3lr
+R1
+Z225 I`fZ@LS?KKnc>J;:WN=iM<2
+Z226 VZZJ@SD_iJlZWih_]X[N:L0
+S1
+R6
+Z227 w1731024946
+Z228 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/sram_IS61WV25616_controller_32b_3lr.sv
+Z229 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/sram_IS61WV25616_controller_32b_3lr.sv
+L0 23
+R10
+r1
+31
+R14
+Z230 nsram_@i@s61@w@v25616_controller_32b_3lr
+Z231 !s100 <R<=[T<ZRa@XFd0ll5c^42
+Z232 !s105 sram_IS61WV25616_controller_32b_3lr_sv_unit
+Z233 !s108 1754711760.595000
+Z234 !s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/sram_IS61WV25616_controller_32b_3lr.sv|
+Z235 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/sram_IS61WV25616_controller_32b_3lr.sv|
+!i10b 1
+!s85 0
+!s101 -O0
+vSRL
+R1
+Z236 !s100 W^4b0f6VX9GVl;46k79CB0
+Z237 ITlcUge4aiDdcjYKPk?=<m1
+Z238 V::@T?6bcQVMJ7IW>dob0E0
+R5
+S1
+R6
+R7
+R8
+R9
+Z239 L0 431
+R10
+r1
+31
+R11
+R12
+R13
+R14
+Z240 n@s@r@l
+!i10b 1
+!s85 0
+!s101 -O0
+vtbench
+R1
+Z241 IomJkdU]kFlRJ0c9aZ31AB3
+Z242 VT=^BAA_AzzEXP@nS83[Le2
+Z243 !s105 tbench_sv_unit
+S1
+R6
+Z244 w1754711757
+Z245 8C:\Users\MANHPHU\Documents\summer_projects\singlecycle\tbench.sv
+Z246 FC:\Users\MANHPHU\Documents\summer_projects\singlecycle\tbench.sv
+L0 3
+R10
+r1
+31
+R14
+!i10b 1
+Z247 !s100 `Efzc<[Pz3LHBdH8VYZCS1
+!s85 0
+Z248 !s108 1754711760.805000
+Z249 !s107 C:\Users\MANHPHU\Documents\summer_projects\singlecycle\tbench.sv|
+Z250 !s90 -reportprogress|300|-work|work|-sv|C:\Users\MANHPHU\Documents\summer_projects\singlecycle\tbench.sv|
+!s101 -O0
+Xtlib_svh_unit
+R1
+!i10b 1
+Z251 !s100 8jDO;FzIhI5DLE6UaNN^53
+Z252 I;kaSK^KDX0N:cCL^>Y;>P1
+Z253 V;kaSK^KDX0N:cCL^>Y;>P1
+!i103 1
+S1
+R6
+R68
+Z254 8C:/Users/MANHPHU/Documents/summer_projects/singlecycle/tlib.svh
+Z255 FC:/Users/MANHPHU/Documents/summer_projects/singlecycle/tlib.svh
+L0 2
+R10
+r1
+!s85 0
+31
+!s108 1754711760.862000
+!s107 C:/Users/MANHPHU/Documents/summer_projects/singlecycle/tlib.svh|
+Z256 !s90 -reportprogress|300|-work|work|-sv|C:/Users/MANHPHU/Documents/summer_projects/singlecycle/tlib.svh|
+!s101 -O0
+R14
+vzero
+R1
+Z257 !s100 UW5VXH1cYPnW;T;KHM09U2
+Z258 Ifgi4b:cOaaPkc<lKfiG_L1
+Z259 Vna3:G@[JT`5NlPFjBBV:n3
+R34
+S1
+R6
+R35
+R36
+R37
+L0 54
+R10
+r1
+31
+R38
+R39
+R40
+R14
+!i10b 1
+!s85 0
+!s101 -O0

@@ -1,0 +1,13 @@
+module mux4(a, b, c, d, sel, y);
+input logic [31:0] a, b, c, d;
+input [1:0] sel;
+output logic [31:0] y;
+
+logic sel0, sel1;
+
+assign sel0 = sel[0];
+assign sel1 = sel[1];
+
+assign y = sel1 ? (sel0 ? d : c) : (sel0 ? b : a);
+
+endmodule

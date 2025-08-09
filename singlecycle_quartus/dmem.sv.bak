@@ -1,0 +1,23 @@
+module dmem(i_clk, i_rst, alu_data, rs2_data, mem_wren, mem_out);
+input i_clk, i_rst;
+input logic [1:0] mem_wren;
+input logic [31:0] alu_data, rs2_data;
+output logic [31:0] mem_out;
+
+logic [31:0] mem[63:0];
+
+always@(posedge i_clk) begin
+	if (i_rst) begin
+		for (int i = 0; i < 64; i+= 1)
+			mem[i] <= 32'b0;
+	end
+	else begin
+		mem[alu_data] <= rs2_data;
+	end
+end
+
+assign mem_out = mem[alu_data];
+initial begin
+  #150
+  mem[7] = 32'd33;end
+endmodule

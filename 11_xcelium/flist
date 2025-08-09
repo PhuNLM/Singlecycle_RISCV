@@ -1,0 +1,21 @@
+-sv
+-timescale 1ns/100ps
+
+
+./../00_src/singlecycle.sv
+./../00_src/BCDto7Seg.sv
+./../00_src/alu.sv
+./../00_src/brc.sv
+./../00_src/control_unit.sv
+./../00_src/ImmGen.sv
+./../00_src/FF32.sv
+./../00_src/mux2.sv
+./../00_src/mux4.sv
+./../00_src/PC.sv
+./../00_src/imem.sv
+./../00_src/regfile.sv
+./../01_bench/tlib.svh
+./../01_bench/driver.sv
+./../01_bench/scoreboard.sv
+./../01_bench/tbench.sv
++xmtop+tbench

@@ -1,0 +1,152 @@
+C:/Users/MANHPHU/Documents/summer_projects/singlecycle/FF32.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/FF32.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FF32
+-- Compiling module FF1
+
+Top level modules:
+	FF32
+	FF1
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/singlecycle.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/singlecycle.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module singlecycle
+
+Top level modules:
+	singlecycle
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/alu.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/alu.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu
+-- Compiling module FA
+-- Compiling module FA_32
+-- Compiling module FS
+-- Compiling module SLTU
+-- Compiling module SLT
+-- Compiling module EXOR
+-- Compiling module ANDD
+-- Compiling module ORR
+-- Compiling module SLL
+-- Compiling module SRL
+-- Compiling module SRA
+-- Compiling module Muxx
+
+Top level modules:
+	alu
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/tlib.svh {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/tlib.svh
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+Top level modules:
+	--none--
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/dmem.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/dmem.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module dmem
+
+Top level modules:
+	dmem
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/tbench.sv {1 {vlog -work work -sv {C:\Users\MANHPHU\Documents\summer_projects\singlecycle\tbench.sv}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tbench
+
+Top level modules:
+	tbench
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/scoreboard.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/scoreboard.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module scoreboard
+
+Top level modules:
+	scoreboard
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux2.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux2.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/regfile.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/regfile.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux4.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/mux4.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/control_unit.sv {2 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/control_unit.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control_unit
+** Warning: C:/Users/MANHPHU/Documents/summer_projects/singlecycle/control_unit.sv(42): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/imem.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/imem.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module imem
+
+Top level modules:
+	imem
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/BCDto7Seg.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/BCDto7Seg.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module BCDto7Seg
+-- Compiling module converter
+
+Top level modules:
+	BCDto7Seg
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/PC.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/PC.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/driver.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/driver.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module driver
+
+Top level modules:
+	driver
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/lsu.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/lsu.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module lsu
+-- Compiling module sram_IS61WV25616_controller_32b_3lr
+
+Top level modules:
+	lsu
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/ImmGen.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/ImmGen.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ImmGen
+
+Top level modules:
+	ImmGen
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/sram_IS61WV25616_controller_32b_3lr.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/sram_IS61WV25616_controller_32b_3lr.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sram_IS61WV25616_controller_32b_3lr
+
+Top level modules:
+	sram_IS61WV25616_controller_32b_3lr
+
+} {} {}} C:/Users/MANHPHU/Documents/summer_projects/singlecycle/brc.sv {1 {vlog -work work -sv C:/Users/MANHPHU/Documents/summer_projects/singlecycle/brc.sv
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module brc
+-- Compiling module zero
+
+Top level modules:
+	brc
+
+} {} {}}
