@@ -8,5 +8,5 @@ Navigate into 11_xcelium folder and run command
 make
 ```
 
-The result should like this
+The result should like this:
 ![result](https://github.com/PhuNLM/Singlecycle_RISCV/blob/main/imgs/result.png)
